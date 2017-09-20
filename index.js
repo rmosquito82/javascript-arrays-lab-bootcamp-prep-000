@@ -22,5 +22,3 @@ function appendKitten(name){
   newArray = kittens.push(name)
   return newArray
 }
-
-
